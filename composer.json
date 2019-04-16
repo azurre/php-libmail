@@ -1,6 +1,7 @@
 {
     "name": "azurre/php-libmail",
-    "description": "PHP library developed by webi.ru",
+    "keywords": ["mail", "mailer", "libmail", "SMTP", "attachments"],
+    "description": "Simple and powerful PHP mailer",
     "version": "1.6.0",
     "homepage": "http://webi.ru/webi_files/php_libmail.html",
     "authors": [
